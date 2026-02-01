@@ -21,7 +21,7 @@ st.markdown("""
     background: radial-gradient(circle at top, #1db95422, #000000 70%);
 }
 h1, h2, h3 {
-    color: #1DB954;
+    color: #800000;
 }
 .card {
     background-color: #800000;

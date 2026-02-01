@@ -24,7 +24,7 @@ h1, h2, h3 {
     color: #1DB954;
 }
 .card {
-    background-color: #111111;
+    background-color: #800000;
     padding: 25px;
     border-radius: 18px;
     box-shadow: 0 0 20px #000;
